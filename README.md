@@ -1,5 +1,7 @@
-# gradle-groovy-seed
-seed for initial gradle groovy projects
+# gcp-dataflow 
+try out google cloud dataflow apis
+
+just a stub for now.  Doesn't do anything
 
 includes:
 
@@ -7,8 +9,6 @@ includes:
 * spock test framework
 * codenarc for static code analysis
 * coburtura for test coverage reports - runs but not configured 
-* hello world script and class examples
-* hello world test cases
 
 only dependency is java SDK.  Just run 
 > ./gradlew
